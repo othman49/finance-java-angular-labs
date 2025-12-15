@@ -1,0 +1,4 @@
+{
+  "name": "demo-frontend",
+  "scripts": { "start": "ng serve" }
+}
